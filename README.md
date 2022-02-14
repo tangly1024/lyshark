@@ -1,7 +1,7 @@
 <img src="/MySvgs/header.svg">
 <img align="right" src="/Image/Katyusha.png" width='553px' height='536px'>
 
-哈喽大家好:wave:, 这里是[lyshark](https://github.com/lyshark). 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
+哈喽大家好:wave:, 这里是[lyshark.com](https://www.lyshark.com)的GitHub. 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
 
 
 #### 👨‍💻他现在干的事情:
