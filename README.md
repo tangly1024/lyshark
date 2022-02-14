@@ -29,7 +29,7 @@
   <a href="https://steamcommunity.com/id/lyshark"><img src="/MySvgs/steam.svg" width="30px" alt="Steam">    </a> &nbsp; &nbsp;
 </p>
 <p align="center">
-  <i> Open to anything under the stars :sparkles: </i>
+  <i> 向星空下的任何事物敞开心扉 :sparkles: </i>
 </p>
 
 
