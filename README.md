@@ -41,8 +41,8 @@
   <summary> <b>  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Things to know about me! </b></summary>
 
 
- [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=lyshark)](https://github.com/lyshark/)
-
+[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=lyshark)](https://github.com/lyshark/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyshark&hide=contribs,prs)
 </details>
 
 
