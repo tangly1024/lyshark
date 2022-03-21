@@ -7,13 +7,13 @@
 #### 👨‍💻他现在干的事情:
 
 - <img src="/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制安全
-- <img src="/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程技术
-- <img src="/Image/huff.gif" width="30px" alt="hi"> 研究如何把妹
+- <img src="/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程
+- <img src="/Image/huff.gif" width="30px" alt="hi"> 研究Python安全编程
 - <img src="/Image/stars.gif" width="30px" alt="hi"> ~~欢迎找我开黑~~
 
 #### :green_heart:他感兴趣的:
 
-- <img src="/Image/snort.gif" width="30px" alt="hi">宇宙、天体、造人😏
+- <img src="/Image/snort.gif" width="30px" alt="hi">宇宙、天体、😏
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
