@@ -8,7 +8,7 @@
 
 - <img src="/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制安全
 - <img src="/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程
-- <img src="/Image/huff.gif" width="30px" alt="hi"> 研究Python安全编程
+- <img src="/Image/huff.gif" width="30px" alt="hi"> 研究网络安全
 - <img src="/Image/stars.gif" width="30px" alt="hi"> ~~欢迎找我开黑~~
 
 #### :green_heart:他感兴趣的:
