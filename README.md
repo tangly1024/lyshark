@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://twitter.com/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/twitter.svg" width="35px" alt="Twitter">     </a> &nbsp; &nbsp;
   <a href="https://t.me/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
   <a href="https://steamcommunity.com/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/steam.svg" width="30px" alt="Steam">    </a> &nbsp; &nbsp;
 </p>
