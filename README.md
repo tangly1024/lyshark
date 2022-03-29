@@ -13,7 +13,7 @@
 
 #### :green_heart:他感兴趣的:
 
-- <img src="https://cdn.lyshark.com/archive/readme/Image/snort.gif" width="30px" alt="hi">宇宙、天体、😏
+- <img src="https://cdn.lyshark.com/archive/readme/Image/snort.gif" width="30px" alt="hi">宇宙、天体、未来科技
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
