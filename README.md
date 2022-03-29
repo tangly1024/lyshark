@@ -6,9 +6,9 @@
 
 #### 👨‍💻他现在干的事情:
 
-- <img src="https://cdn.lyshark.com/archive/readme/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制安全
+- <img src="https://cdn.lyshark.com/archive/readme/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制逆向技术
 - <img src="https://cdn.lyshark.com/archive/readme/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程
-- <img src="https://cdn.lyshark.com/archive/readme/Image/huff.gif" width="30px" alt="hi"> 研究网络安全
+- <img src="https://cdn.lyshark.com/archive/readme/Image/huff.gif" width="30px" alt="hi"> 研究网络安全与渗透测试
 - <img src="https://cdn.lyshark.com/archive/readme/Image/stars.gif" width="30px" alt="hi"> ~~欢迎找我开黑~~
 
 #### :green_heart:他感兴趣的:
