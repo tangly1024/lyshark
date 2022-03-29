@@ -29,6 +29,4 @@
   <i> 向星空下的任何事物敞开心扉 :sparkles: </i>
 </p>
 
-<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyshark&hide=contribs,prs)
- </div>
