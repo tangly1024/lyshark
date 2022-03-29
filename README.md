@@ -6,23 +6,23 @@
 
 #### 👨‍💻他现在干的事情:
 
-- <img src="/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制安全
-- <img src="/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程
-- <img src="/Image/huff.gif" width="30px" alt="hi"> 研究网络安全
-- <img src="/Image/stars.gif" width="30px" alt="hi"> ~~欢迎找我开黑~~
+- <img src="https://cdn.lyshark.com/archive/readme/Image/dac15_frog.gif" width="30px" alt="hi"> 研究二进制安全
+- <img src="https://cdn.lyshark.com/archive/readme/Image/happy.gif" width="30px" alt="hi"> 研究C/C++安全编程
+- <img src="https://cdn.lyshark.com/archive/readme/Image/huff.gif" width="30px" alt="hi"> 研究网络安全
+- <img src="https://cdn.lyshark.com/archive/readme/Image/stars.gif" width="30px" alt="hi"> ~~欢迎找我开黑~~
 
 #### :green_heart:他感兴趣的:
 
-- <img src="/Image/snort.gif" width="30px" alt="hi">宇宙、天体、😏
+- <img src="https://cdn.lyshark.com/archive/readme/Image/snort.gif" width="30px" alt="hi">宇宙、天体、😏
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/lyshark"><img src="/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-  <a href="https://t.me/lyshark"><img src="/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
-  <a href="https://steamcommunity.com/id/lyshark"><img src="/MySvgs/steam.svg" width="30px" alt="Steam">    </a> &nbsp; &nbsp;
+  <a href="https://twitter.com/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://t.me/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/telegram.svg" width="30px" alt="Telegram">    </a> &nbsp; &nbsp;
+  <a href="https://steamcommunity.com/"><img src="https://cdn.lyshark.com/archive/readme/MySvgs/steam.svg" width="30px" alt="Steam">    </a> &nbsp; &nbsp;
 </p>
 
 <p align="center">
