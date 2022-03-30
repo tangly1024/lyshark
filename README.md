@@ -1,5 +1,5 @@
 <img src="https://cdn.lyshark.com/archive/readme/MySvgs/header.svg">
-<img align="right" src="/Image/lyshark.png" width='553px' height='536px'>
+<img align="right" src="https://lyshark.github.io/archive/readme/Image/lyshark.png" width='553px' height='536px'>
 
 哈喽大家好:wave:, 这里是[ lyshark ](https://lyshark.cnblogs.com)的GitHub 由于左边的菜鸡正在学习所以让我介绍他:no_mouth:
 
