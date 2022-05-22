@@ -40,3 +40,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyshark&theme=github" />
   </a>
 </div>
+
+
+<img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
